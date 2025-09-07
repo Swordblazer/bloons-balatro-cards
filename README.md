@@ -23,3 +23,7 @@ Jack of Clubs: Silas (TD6)\
 Queen of Clubs: Brickell (TD6)\
 King of Clubs: Corvus (TD6)
 
+
+## Credits
+art made by: yours truly (me)
+code coded by: yours truly (me)
