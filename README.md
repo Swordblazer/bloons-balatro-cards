@@ -3,7 +3,9 @@ Have you ever wondered, "man, balatro is so fun, and bloons is so fun too, I wis
 
 no?
 
-well look no further, here they are anyways
+well look no further, here they are anyways.
+
+<b><a href="https://github.com/Steamodded/smods">Steammodded</a> is required for this texture pack to work, but given that you're here, I think you'd have it already.</b>
 
 ## Current Roster
 
