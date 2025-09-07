@@ -1,0 +1,13 @@
+{
+	"id": "BTDDeckSkin",
+	"name": "Bloons TD Deck Skin",
+	"author": ["EngineerMonke"],
+	"description": "Like Bloons? Like Balatro? Look no further.",
+	"prefix": "BTDDeckSkin",
+	"badge_colour": "fc8048",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "BTDcards.lua",
+	"version": "1.0.0"
+}
